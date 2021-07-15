@@ -1,5 +1,3 @@
-
-
 # Team Profile Generator
 
 ## Description
@@ -7,19 +5,26 @@
 
 The Team Profile Generator is a command-line application which generates a webpage based on the provided employee info.
 
-![Walkthrough](dist/assets/img/demo.gif)
 
 ## Table of Contents
+- [Walkthrough](#walkthrough)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributions](#contributions)
 
+
+## Walkthrough
+https://drive.google.com/drive/folders/1ZxthZRsQe-kENNupKD9UZWrrbHBcrIX0
+
+
 ## Installation
 Clone code, run `npm init`, then `npm install inquirer` and `npm install jest`.
 
+
 ## Usage
 To begin, simply run `node index` from the terminal/command line.
+
 
 ## License
 
