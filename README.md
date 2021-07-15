@@ -5,7 +5,8 @@
 ## Description
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-The Team Profile Generator is a command-line application which generates a webpage based on the provided employee info. 
+The Team Profile Generator is a command-line application which generates a webpage based on the provided employee info.
+
 ![Walkthrough](dist/assets/img/demo.gif)
 
 ## Table of Contents
@@ -18,7 +19,7 @@ The Team Profile Generator is a command-line application which generates a webpa
 Clone code, run `npm init`, then `npm install inquirer` and `npm install jest`.
 
 ## Usage
-The application can be invoked by using the command `node index` from terminal.
+To begin, simply run `node index` from the terminal/command line.
 
 ## License
 
